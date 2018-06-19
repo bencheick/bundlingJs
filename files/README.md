@@ -1,0 +1,1 @@
+To access the sample code for this course follow the instructions in the master branch of this repository: https://github.com/g0t4/optimizing-web-apps-webpack
